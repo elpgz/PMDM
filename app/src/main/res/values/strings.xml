@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">ProyectoTema2</string>
     <string name="textoNombreApp">BOPAPP</string>
+    <string name="textButtonEnviar">Enviar</string>
+    <string name="hintPass">Pass</string>
+    <string name="hintUser">User</string>
 </resources>
